@@ -1,0 +1,56 @@
+name: 改善提案リクエスト
+description: 課題リポジトリの内容やドキュメント、参考資料に関する改善提案
+title: "[改善提案]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        提案いただきありがとうございます！以下の情報を記入し、提案内容がわかりやすくなるようご協力ください。
+
+  - type: textarea
+    id: suggestion-description
+    attributes:
+      label: 改善内容の詳細
+      description: 提案する修正や改善について、詳細に記入してください。
+      placeholder: 改善内容を具体的に説明してください。
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area-of-improvement
+    attributes:
+      label: 改善対象
+      description: 改善提案が適用される対象を選択してください。
+      options:
+        - 課題内容
+        - ドキュメント
+        - 参考資料
+        - その他
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: 提案の理由
+      description: この改善が必要とされる理由を記入してください。問題点や現状の課題について具体的に記述してください。
+      placeholder: 提案理由を説明してください。
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-outcome
+    attributes:
+      label: 期待される効果
+      description: 提案が実施された場合に期待される効果やメリットについて記述してください。
+      placeholder: 提案後の期待効果について説明してください。
+    validations:
+      required: true
+
+  - type: input
+    id: references
+    attributes:
+      label: 関連資料やリファレンス
+      description: 関連する資料やリンクがあれば記入してください（オプション）。
+      placeholder: 参考資料やリンクを記載してください。

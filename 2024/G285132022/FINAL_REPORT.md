@@ -42,7 +42,7 @@
 - LMS: 教材の配信や進捗管理を効率化し、教師と生徒のインタラクションを促進するため。
 
 ### 参考資料一覧 (メモ)
-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.mext.go.jp/content/20240821-mxt_chousa01-000037551_001.pdf
+https://www.mext.go.jp/content/20240821-mxt_chousa01-000037551_001.pdf
 
 - ※ 令和６年度学校基本調査　在学者数などの明記もの(文部科学省明記)
 

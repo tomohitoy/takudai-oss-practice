@@ -27,7 +27,7 @@
 nippon.com　https://www.nippon.com/ja/japan-data/h01951/
 ホームメイト　https://www.homemate-research-theme-park.com/list/
 
-![alt text](https://www.nippon.com/ja/ncommon/contents/japan-data/2567022/2567022.png)
+<img src="https://www.nippon.com/ja/ncommon/contents/japan-data/2567022/2567022.png" alt="説明" width="300" height="200">
 ###　選定したもの
 * ユーザインタフェース
     チケットの予約

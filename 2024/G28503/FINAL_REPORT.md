@@ -72,7 +72,7 @@ ChatGPT Plus $20/月 （12月30日時点　3158円）
 
 ## 引用元
 >【1】文部科学省　令和5年度　児童生徒の問題行動・不登校等生徒指導上の諸課題に関する調査結果の概要  
->URL:[https://www.mext.go.jp/content/20241031-mxt_jidou02-100002753_2_2.pdf](https://www.mext.go.jp/content/20241031-mxt_jidou02-100002753_2_2.pdf)  
+>>URL:[https://www.mext.go.jp/content/20241031-mxt_jidou02-100002753_2_2.pdf](https://www.mext.go.jp/content/20241031-mxt_jidou02-100002753_2_2.pdf)  
 >【2】総務省人口推計（2024年（令和6年）7月確定値、2024年（令和6年）12月概算値）（2024年12月20日公表)  
->URL:[https://www.stat.go.jp/data/jinsui/new.html](https://www.stat.go.jp/data/jinsui/new.html)  
+>>URL:[https://www.stat.go.jp/data/jinsui/new.html](https://www.stat.go.jp/data/jinsui/new.html)  
 

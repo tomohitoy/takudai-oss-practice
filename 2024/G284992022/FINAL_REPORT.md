@@ -58,7 +58,7 @@
 
 ***
 ##### 参考資料
-資料1:https://www.mext.go.jp/content/20220530-mxt_chousa01-000021527_04.xls （最終閲覧日2024/12/29）
+資料1:https://www.mext.go.jp/content/20220530-mxt_chousa01-000021527_04.xls（最終閲覧日2024/12/29）
 
 資料2:https://www.mext.go.jp/content/20220530-mxt_chousa01-000021527_05.xls (最終閲覧日2024/12/29)
 

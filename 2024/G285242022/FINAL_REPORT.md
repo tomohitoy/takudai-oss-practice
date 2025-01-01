@@ -61,10 +61,15 @@ AIのアルゴリズムは学習量と正確性に相関関係があるので初
 
 リリースの2030年までにサービスの開発と並行してアルゴリズムの作成に取り掛かる。ジャンル別に分けながら約1000人程度のモニターに参加してもらい高品質なデータをインポートして学習していく。
 
-#####　参考文献
+
+## 参考文献
+
 ・Exchenge Wire  https://www.exchangewire.jp/2018/11/20/population-digitalmarketer/
+
 ・VR Digest　https://www.videor.co.jp/digestplus/article/79597.html
+
 ・e-セールスマネージャー remix https://www.e-sales.jp/eigyo-labo/tracking-16514
+
 ・Urumo https://www.innovation.co.jp/urumo/adtechnology/
 
 

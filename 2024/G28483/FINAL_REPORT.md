@@ -74,7 +74,7 @@
 
 ---
 <details><summary> 全体参照一覧 </summary><div>
-0S Sとライセンス
+0SSとライセンス
 
 
  - [文部科学省　令和6年学校基本調査](https://www.mext.go.jp/content/20241213-mxt_chousa01-000037551_01.pdf) 

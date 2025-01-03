@@ -21,7 +21,7 @@
 >- 授業・実験に使うAIを用いて作成する（実験は教師用及び生徒用の手順書）
 
 参照
- - [学生アンケートに見る 中学校・高等学校における理科実験の体験率](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kitasato.repo.nii.ac.jp/record/544/files/067-076_kenkyunote2_kkck5%25282019%2529.pdf&ved=2ahUKEwjMmLjKv9eKAxUscPUHHdlPKSAQFnoECBUQAQ&usg=AOvVaw3GWE6fZB8oTkvACwlQX-XJ) 
+ - [学生アンケートに見る 中学校・高等学校における理科実験の体験率](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kitasato.repo.nii.ac.jp/record/544/files/067-076_kenkyunote2_kkck5%25282019%2529.pdf&ved=2ahUKEwjMmLjKv9eKAxUscPUHHdlPKSAQFnoECBUQAQ&usg=AOvVaw3GWE6fZB8oTkvACwlQX-XJ) <br>＊画像は同ファイルにもございます
 
 
  ---

@@ -92,12 +92,12 @@ Unity
 
 Vircadia
 
-公式サイト: https://vircadia.com
+公式サイト: https://vircadia.com 
 
-High Fidelity, Inc, DigiSomni LLC, Vircadia contributors.
+ライセンス: High Fidelity, Inc, DigiSomni LLC, Vircadia contributors.
 
 引用元: https://github.com/vircadia/vircadia-native-core/blob/master/LICENSE
 
-理由 メタバース空間の作成や共有をできるだけでなく、他人が作った世界を探索したり、他のユーザーと交流したり、ライブイベントに参加または主催したりできるなど幅広く利用できるため。
+理由: メタバース空間の作成や共有をできるだけでなく、他人が作った世界を探索したり、他のユーザーと交流したり、ライブイベントに参加または主催したりできるなど幅広く利用できるため。
 
 参考サイト: https://qiita.com/vircadia-fan/items/7ac0dc339a8aac8ead72 メタバースのオープンソースVircadiaを触ってみる

@@ -40,3 +40,4 @@ $
   3. Apache License 2.0: TensorFlowやSeleniumはApache 2.0ライセンスで提供されており、商用利用が可能。 $
   4. AGPL (Affero GPL): Jitsi MeetはAGPLライセンスで提供されており、商用利用には特別な契約が必要。 $
   5. また、各職業に必要なライセンスや資格をオプションなどで設定。 $
+

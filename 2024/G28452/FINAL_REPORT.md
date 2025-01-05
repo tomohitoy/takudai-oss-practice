@@ -37,6 +37,10 @@
 
     |ソフトウェア|役割|ライセンス|
     |:---:|:---:|:---:|
+    |Unreal Engine||カスタムライセンス(独自のライセンス)|
+    |Firebase|3Dグラフィックスエンジン|独自ライセンス（Google提供）|
+    |Blender|3Dモデリングツール|GPL（GNU General Public License）|
+    |React.js|フロントエンド開発|MITライセンス|
 
 3. **結論**
 

@@ -43,4 +43,3 @@ https://metaversesouken.com/metaverse/users/?utm_source=chatgpt.com
 
 - Sammy 決算プレゼンテーション資料
 https://www.segasammy.co.jp/cms/wp-content/uploads/pdf/ja/ir/20241108_q2_presentation_j.pdf
-

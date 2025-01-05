@@ -55,6 +55,7 @@
 ### 参考文献
 
 参考：2021年6月時点での中小企業数 
+
 https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html
 
 参考：中小企業・小規模事業者が直面している課題と今後の展望について https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_4_8.html

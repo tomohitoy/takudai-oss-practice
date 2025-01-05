@@ -34,15 +34,9 @@
 ### 結論
 今回考えたサービスは中小企業の課題を解決して、競争力を向上させるための現実的かつ効果的な方法だと考えた。2030年にサービスリリースを目指し、OSS技術の活用による低コスト運用を基盤とすることで、持続可能なビジネスモデルを実現する。「スマートデータ分析プラットフォームサービス」は特に人手不足、生産性向上、価格転嫁、地域振興の4つの側面で効果があると考える。そのため中小企業の持続可能な成長を支援することができる。このサービスの提供により、地方圏の雇用創出や付加価値向上にも寄与し、日本経済全体の活性化につながると考えた。
 ### 参考文献
-参考：2021年6月時点での中小企業数　
-https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html
-参考：中小企業・小規模事業者が直面している課題と今後の展望について
-https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_4_8.html
-参考：PostgreSQL公式サイト
-https://www.postgresql.org/
-参考：Apache Spark公式サイト
-https://spark.apache.org/
-参考：Kubernetes公式サイト
-https://kubernetes.io/
-参考：React.js公式サイト
-https://reactjs.org/
+参考：2021年6月時点での中小企業数 https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html
+参考：中小企業・小規模事業者が直面している課題と今後の展望について https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b1_4_8.html
+参考：PostgreSQL公式サイト https://www.postgresql.org/
+参考：Apache Spark公式サイト https://spark.apache.org/
+参考：Kubernetes公式サイト https://kubernetes.io/
+参考：React.js公式サイト https://reactjs.org/

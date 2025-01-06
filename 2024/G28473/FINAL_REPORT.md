@@ -1,5 +1,5 @@
 ## ゲーム業界に関するビジネスアイデア
- 　G284732022 高部龍太
+## G284732022 高部龍太
 
 ## 1.ビジネスアイデア
 ### 領域
@@ -24,8 +24,7 @@
 
 
 参考
-[ゲーム業界の企業数]
-(https://livecomputing.co.jp/blog/game-biz-strategy/game-industry-map-2022/#:~:text=%E3%82%B2%E3%83%BC%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E4%BC%81%E6%A5%AD%E6%95%B0,%E3%81%A7%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82)
+[ゲーム業界の企業数](https://livecomputing.co.jp/blog/game-biz-strategy/game-industry-map-2022/#:~:text=%E3%82%B2%E3%83%BC%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E4%BC%81%E6%A5%AD%E6%95%B0,%E3%81%A7%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82)
 
 
 ## 3.ビジネスモデル

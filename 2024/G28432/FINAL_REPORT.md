@@ -51,4 +51,11 @@ https://zenn.dev/piment/articles/254dde3ecf7f10
 3) Pythonで簡単に日本語OCR
 https://qiita.com/ku_a_i/items/d4c1ce70836b8035a449
 
-4) https://zenn.dev/kun432/scraps/9c99f8cdadcc80
+4) PythonでPDFを読み取る
+https://zenn.dev/kun432/scraps/9c99f8cdadcc80
+
+5) paddelOCR
+https://paddlepaddle.github.io/PaddleOCR/main/ja/index.html
+
+6) Google cloud vision
+https://x.gd/9Plr0

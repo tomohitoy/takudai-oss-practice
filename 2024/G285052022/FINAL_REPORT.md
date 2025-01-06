@@ -19,9 +19,9 @@
  試算結果
 - 120万×2×1000 = 240億 
 ## 5. 構成要素
-- VR開発環境:Unreal Engine + Pixel Streaming
-- セキュリティ:OpenVPN
-- 決済システム:WooCommerce
+- VR開発環境:Unreal Engine + Pixel Streaming (Unreal Engine License)
+- セキュリティ:OpenVPN (GPLv2)
+- 決済システム:WooCommerce (GPLv3)
 
 #### 選定理由
 - Unreal Engine 高品質なグラフィックから遊技機のど派手な演出の再現に最適だと思ったからです。

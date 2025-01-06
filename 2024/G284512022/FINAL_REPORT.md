@@ -27,16 +27,16 @@ AIによるマッチング機能にはApache 2.0ライセンスのTensorFlowとE
 技能実習生関連の課題はこれらに限らないかもしれませんが、情報産業の発展により、ソフトウェアやAIなどの現代技術を用いて解決できる問題が増えるでしょう。また、オープンソースソフトウェアが増加することで、より多くの人々や産業が低コストで自身のビジネス領域の課題を解決できるようになると考えられます。
 
 引用文献
-１、“日本総研2024年の出生数は68.5万人、婚姻数は47.5万組の見通し
-https://www.jri.co.jp/page.jsp?id=109244”
-２、“総務省統計トピックス Nｏ．141我 が 国 の こ ど も の 数
-https://www.stat.go.jp/data/jinsui/topics/pdf/topics141.pdf”
-３、“技能実習制度wikipedia
-https://ja.wikipedia.org/wiki/技能実習制度#”
-４、“厚生労働省　「外国人雇用状況」の届出状況まとめ（令和５年10月末時点）
-https://www.mhlw.go.jp/stf/newpage_37084.html”
-５、“OpenNMT https://opennmt.net”
-６、“fastText https://fasttext.cc”
-７、“Moodle https://moodle.org/?lang=ja”
-８、“TensorFlow https://www.tensorflow.org/?hl=ja”
-９、“ElasticSearch https://www.elastic.co/jp/elasticsearch”
+１、日本総研2024年の出生数は68.5万人、婚姻数は47.5万組の見通し
+https://www.jri.co.jp/page.jsp?id=109244
+２、総務省統計トピックス Nｏ．141我 が 国 の こ ど も の 数
+https://www.stat.go.jp/data/jinsui/topics/pdf/topics141.pdf
+３、技能実習制度wikipedia
+https://ja.wikipedia.org/wiki/技能実習制度#
+４、厚生労働省　「外国人雇用状況」の届出状況まとめ（令和５年10月末時点）
+https://www.mhlw.go.jp/stf/newpage_37084.html
+５、OpenNMT https://opennmt.net
+６、fastText https://fasttext.cc
+７、Moodle https://moodle.org/?lang=ja
+８、TensorFlow https://www.tensorflow.org/?hl=ja
+９、ElasticSearch https://www.elastic.co/jp/elasticsearch

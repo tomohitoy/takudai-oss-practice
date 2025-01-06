@@ -28,12 +28,13 @@
 
 ---
 ### 技術的要素とossについて
-- paddleOCR
-- python
-- google cloud vision
+- paddleOCR(文字認識)
+- python(構築言語)
+- google cloud vision(文字認識)--有料
 　採点プリケーションを作るため、統計、データ分析を得意とするpythonで構成しようと考えています。文字認識のオープンソースソフトウェアについては、paddleOCRの採用を考えています。
 paddleOCRの採用利用は、オープンソースソフトウェアであるので、無償で商用利用が可能であるのはもちろんですが、日本語対応の文字認識OSSは複数あるのですが、それを比較した際にこのpaddleOCRが速度と精度については性能が一番高いという結果に基づいたためです。[(参照2)](https://zenn.dev/piment/articles/254dde3ecf7f10)
 　また、pythonが統計に強く、paddleocrと相性が良いと考えたからです。実際に調べてみると、pythonで運用されていることが多く[(参照3)](https://qiita.com/ku_a_i/items/d4c1ce70836b8035a449)[(参照4)](https://zenn.dev/kun432/scraps/9c99f8cdadcc80)運用例が多ければ、困った時の参照先が多くなるのでより良い構築要素かと思いました。
+　有料になってしまうが、資金や人材が成長してきたらより精度と速度の性能が優れているGoogle Cloud visionを使うことで、よりユーザの満足度を得ることを目標にしたいと思っている。
 
 ---
 ###　結論
@@ -47,6 +48,8 @@ https://www.mext.go.jp/content/20241213-mxt_chousa01-000037551_01.pdf
 2) 日本語対応オープンソースOCRの比較
 https://zenn.dev/piment/articles/254dde3ecf7f10
 
-3) https://qiita.com/ku_a_i/items/d4c1ce70836b8035a449
+3) Pythonで簡単に日本語OCR
+https://qiita.com/ku_a_i/items/d4c1ce70836b8035a449
 
-4) https://zenn.dev/kun432/scraps/9c99f8cdadcc80
+4) PythonでPDFを読み取る
+https://zenn.dev/kun432/scraps/9c99f8cdadcc80
